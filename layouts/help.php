@@ -22,7 +22,7 @@
         <script src="//code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
         <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
         <script src="media/bootstrap.min.js" type="text/javascript"></script>
-        <link href="//cdn.joomla.org/template/css/v3_template.min.css?v1.3.0" rel="stylesheet" media="all" />
+        <link href="//cdn.joomla.org/template/css/v3_template.min.css?v1.3.3" rel="stylesheet" media="all" />
         <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
         <style type="text/css">
             h1, h2, h3, h4, h5, h6, .site-title {
@@ -38,7 +38,7 @@
    		<div class="container">
             <div class="well text-center">
                 <img src="media/logo.png" alt="Joomla! Logo">
-                <h2>Joomla! End of Support (EOS) Notice<br />All security patches have ceased.</h2>
+                <h2>Joomla! End of Support Notice<br />All security patches have ceased.</h2>
                 <p class="lead">Joomla 1.0 End of Support - July 22, 2009<br />Joomla 1.5 End of Support - December 31, 2012</p>
                 <p>If you are still using Joomla! 1.0 or 1.5, please upgrade your Joomla! version ASAP. Your website may be at risk and your installed extensions may be a security risk.</p>
                 <p><a class="btn btn-primary" href="https://docs.joomla.org/What_version_of_Joomla!_should_you_use%3F" target="_blank">What version of Joomla! should you use?</a></p>

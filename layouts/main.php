@@ -22,7 +22,7 @@
         <script src="//code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
         <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
         <script src="media/bootstrap.min.js" type="text/javascript"></script>
-        <link href="//cdn.joomla.org/template/css/v3_template.min.css?v1.3.0" rel="stylesheet" media="all" />
+        <link href="//cdn.joomla.org/template/css/v3_template.min.css?v1.3.3" rel="stylesheet" media="all" />
         <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
         <style type="text/css">
             h1, h2, h3, h4, h5, h6, .site-title {
@@ -91,7 +91,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a href="http://forum.joomla.org">Joomla! Forum</a></li>
                                     <li><a href="https://docs.joomla.org">Joomla! Documentation</a></li>
-                                    <li><a href="http://issues.joomla.org">Joomla! Issue Tracker</a></li>
+                                    <li><a href="https://issues.joomla.org">Joomla! Issue Tracker</a></li>
                                     <li><a href="http://resources.joomla.org">Joomla! Resources</a></li>
                                 </ul>
                             </li>
@@ -113,12 +113,12 @@
                             </li>
                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Developers <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://developer.joomla.org">Developer Site</a></li>
+                                    <li><a href="https://developer.joomla.org">Developer Site</a></li>
                                     <li><a href="https://docs.joomla.org">Documentation</a></li>
                                     <li><a href="https://docs.joomla.org/Bug_Squad">Joomla! Bug Squad</a></li>
                                     <li><a href="https://api.joomla.org">Joomla! API</a></li>
                                     <li><a href="http://joomlacode.org">JoomlaCode</a></li>
-                                    <li><a href="http://framework.joomla.org">Joomla! Framework</a></li>
+                                    <li><a href="https://framework.joomla.org">Joomla! Framework</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -165,7 +165,7 @@
                 <div class="container">
                     <ul class="nav menu nav-pills">
                         <li>
-                            <a href="//help.joomla.org">Home</a>
+                            <a href="https://help.joomla.org">Home</a>
                         </li>
                     </ul>
                 </div>
@@ -178,7 +178,7 @@
                     <div class="span12">
                         <div class="alert alert-info">
                             <h4>Help Site Offline</h4>
-                            <p>The Joomla Help Site has been taken offline.</p>
+                            <p>The Joomla Help Site has been taken offline. Please use the <a href="https://docs.joomla.org">Joomla! Documentation Wiki</a> for current version documentation.</p>
                         </div>
                     </div>
                 </div>
@@ -209,7 +209,7 @@
                         <li><a href="http://extensions.joomla.org"><span>Extensions</span></a></li>
                         <li><a href="http://resources.joomla.org"><span>Resources</span></a></li>
                         <li><a href="https://docs.joomla.org"><span>Docs</span></a></li>
-                        <li><a href="http://developer.joomla.org"><span>Developer</span></a></li>
+                        <li><a href="https://developer.joomla.org"><span>Developer</span></a></li>
                         <li><a href="http://shop.joomla.org"><span>Shop</span></a></li>
                     </ul>
 
@@ -219,7 +219,7 @@
                         <li><a href="https://www.rochen.com/joomla-hosting" target="_blank">Joomla Hosting by Rochen</a></li>
                     </ul>
 
-                    <p>&copy; 2005 - 2015 <a href="http://www.opensourcematters.org">Open Source Matters, Inc.</a> All rights reserved.</p>
+                    <p>&copy; 2005 - <?php echo date('Y'); ?> <a href="http://www.opensourcematters.org">Open Source Matters, Inc.</a> All rights reserved.</p>
                 </div>
             </div>
         </div>
