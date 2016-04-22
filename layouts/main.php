@@ -59,21 +59,20 @@
                                     <li class="divider"><span></span></li>
                                     <li class="nav-header"><span>Recent News</span></li>
                                     <li><a href="https://www.joomla.org/announcements.html">Announcements</a></li>
-                                    <li><a href="http://community.joomla.org/blogs/community.html">Blogs</a></li>
-                                    <li><a href="http://magazine.joomla.org/">Magazine</a></li>
+                                    <li><a href="http://community.joomla.org/blogs.html">Blogs</a></li>
+                                    <li><a href="http://magazine.joomla.org">Magazine</a></li>
                                     <li class="divider"><span></span></li>
                                     <li class="nav-header"><span>Support Joomla!</span></li>
                                     <li><a href="https://volunteers.joomla.org">Contribute</a></li>
-                                    <li><a href="http://shop.joomla.org">Shop Joomla Gear</a></li>
+                                    <li><a href="https://shop.joomla.org">Shop Joomla Gear</a></li>
                                     <li><a href="https://www.joomla.org/sponsorship">Sponsorship</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">About <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="https://www.joomla.org/about-joomla.html">About Joomla!</a>
-                                    <li><a href="https://www.joomla.org/core-features.html">Core Features</a>
-                                    <li><a href="https://www.joomla.org/about-joomla.html">The Software</a></li>
+                                    <li><a href="https://www.joomla.org/about-joomla.html">About Joomla!</a></li>
+                                    <li><a href="https://www.joomla.org/core-features.html">Core Features</a></li>
                                     <li><a href="https://www.joomla.org/about-joomla/the-project.html">The Project</a></li>
                                     <li><a href="https://www.joomla.org/about-joomla/the-project/leadership-team.html">Leadership</a></li>
                                     <li><a href="http://opensourcematters.org">Open Source Matters</a></li>
@@ -82,7 +81,8 @@
                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Community <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="http://community.joomla.org">Joomla! Community Portal</a></li>
-                                    <li><a href="https://events.joomla.org/">Joomla! Events</a></li>
+                                    <li><a href="https://events.joomla.org">Joomla! Events</a></li>
+                                    <li><a href="https://tm.joomla.org">Joomla! Trademark &amp; Licensing</a></li>
                                     <li><a href="http://community.joomla.org/user-groups.html">Joomla! User Groups</a></li>
                                     <li><a href="https://volunteers.joomla.org">Joomla! Volunteers Portal</a></li>
                                 </ul>
@@ -92,7 +92,7 @@
                                     <li><a href="http://forum.joomla.org">Joomla! Forum</a></li>
                                     <li><a href="https://docs.joomla.org">Joomla! Documentation</a></li>
                                     <li><a href="https://issues.joomla.org">Joomla! Issue Tracker</a></li>
-                                    <li><a href="http://resources.joomla.org">Joomla! Resources</a></li>
+                                    <li><a href="http://resources.joomla.org">Joomla! Resources Directory</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Read <span class="caret"></span></a>
@@ -106,14 +106,13 @@
                                 <ul class="dropdown-menu">
                                     <li><a href="http://extensions.joomla.org">Extension Directory</a></li>
                                     <li><a href="http://community.joomla.org/showcase">Showcase Directory</a></li>
-                                    <li><a href="http://resources.joomla.org">Resource Directory</a></li>
-                                    <li><a href="http://community.joomla.org/translations.html">Translations</a></li>
-                                    <li><a href="http://ideas.joomla.org">Idea Pool</a></li>
+                                    <li><a href="http://community.joomla.org/translations.html">Language Packages</a></li>
+                                    <li><a href="https://certification.joomla.org">Certification Program</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Developers <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="https://developer.joomla.org">Developer Site</a></li>
+                                    <li><a href="https://developer.joomla.org">Developer Network</a></li>
                                     <li><a href="https://docs.joomla.org">Documentation</a></li>
                                     <li><a href="https://docs.joomla.org/Bug_Squad">Joomla! Bug Squad</a></li>
                                     <li><a href="https://api.joomla.org">Joomla! API</a></li>
@@ -128,7 +127,7 @@
                                     <span aria-hidden="true" class="icon-earth"></span>
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://community.joomla.org/translations.html">Translations</a></li>
+                                    <li><a href="http://community.joomla.org/translations.html">Language Packages</a></li>
                                     <li><a href="https://demo.joomla.org/multilingual">Multilingual Demo</a></li>
                                     <li><a href="https://docs.joomla.org/Translations_Working_Group">Translation Working Group</a></li>
                                     <li><a href="http://forum.joomla.org/viewforum.php?f=11">Translations Forum</a></li>
