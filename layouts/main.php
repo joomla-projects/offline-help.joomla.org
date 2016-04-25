@@ -209,16 +209,20 @@
                         <li><a href="http://resources.joomla.org"><span>Resources</span></a></li>
                         <li><a href="https://docs.joomla.org"><span>Docs</span></a></li>
                         <li><a href="https://developer.joomla.org"><span>Developer</span></a></li>
-                        <li><a href="http://shop.joomla.org"><span>Shop</span></a></li>
+                        <li><a href="https://shop.joomla.org"><span>Shop</span></a></li>
                     </ul>
 
                     <ul class="nav-inline">
                         <li><a href="https://www.joomla.org/accessibility-statement.html">Accessibility Statement</a></li>
                         <li><a href="https://www.joomla.org/privacy-policy.html">Privacy Policy</a></li>
-                        <li><a href="https://www.rochen.com/joomla-hosting" target="_blank">Joomla Hosting by Rochen</a></li>
                     </ul>
 
-                    <p>&copy; 2005 - <?php echo date('Y'); ?> <a href="http://www.opensourcematters.org">Open Source Matters, Inc.</a> All rights reserved.</p>
+                    <p class="copyright">&copy; 2005 - <?php echo date('Y');?> <a href="http://opensourcematters.org">Open Source Matters, Inc.</a> All rights reserved.</p>
+
+                    <div class="hosting">
+                        <div class="hosting-image"><a href="https://www.rochen.com/joomla-hosting" target="_blank"><img class="rochen" src="https://cdn.joomla.org/rochen/rochen_footer_logo_white.png"></a></div>
+                        <div class="hosting-text"><a href="https://www.rochen.com/joomla-hosting" target="_blank">Joomla! Hosting by Rochen</a></div>
+                    </div>
                 </div>
             </div>
         </div>
